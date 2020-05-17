@@ -18,8 +18,7 @@
 7. Go back to the project folder
 8. Launch Gazebo world `gazebo world/UdacityOffice`
 
-## Project Description  
-Directory Structure  
+## Structure
 ```
 .RoboND-Build-My-World             # Build My World Project 
 ├── model                          # Model files 
@@ -38,3 +37,4 @@ Directory Structure
 │   ├── UdacityOffice.world
 ├── CMakeLists.txt
 └──   
+```
